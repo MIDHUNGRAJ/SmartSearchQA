@@ -36,3 +36,4 @@ agent = initialize_agent(
 
 def run_query(query: str) -> str:
     return agent.run(query)
+
